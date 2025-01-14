@@ -4,3 +4,4 @@ public class EiOne{
         System.out.print("That's not humankind");
     }
 }
+
