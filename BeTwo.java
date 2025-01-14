@@ -1,7 +1,7 @@
 
 
 public class BeTwo {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // args são parametros
         sum(32, 23);
         per(23.4, 43);
         yor("Glory to ", "Mankind");

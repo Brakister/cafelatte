@@ -1,0 +1,103 @@
+Etapa 1: Introdução à Filosofia (Simples e Acessível)
+Nome do livro: O Mundo de Sofia - Jostein Gaarder
+Facilidade: Muito fácil
+Número de páginas: ~560
+Filosofia principal: Introdução à história da filosofia.
+
+Nome do livro: A República para Jovens - Alain Badiou
+Facilidade: Fácil
+Número de páginas: ~140
+Filosofia principal: Justiça e sociedade (baseado em A República de Platão).
+
+Nome do livro: O Discurso do Método - René Descartes
+Facilidade: Fácil
+Número de páginas: ~120
+Filosofia principal: Racionalismo e método científico.
+
+Nome do livro: O Que é Filosofia? - Alasdair MacIntyre
+Facilidade: Fácil
+Número de páginas: ~96
+Filosofia principal: Introdução ao pensamento filosófico.
+
+Nome do livro: Os Pensadores: Sócrates - Coleção Os Pensadores
+Facilidade: Fácil
+Número de páginas: ~110
+Filosofia principal: Filosofia socrática e dialética.
+
+Etapa 2: Filosofia Intermediária
+Nome do livro: O Príncipe - Nicolau Maquiavel
+Facilidade: Intermediária
+Número de páginas: ~120
+Filosofia principal: Política e poder.
+
+Nome do livro: Ética a Nicômaco - Aristóteles
+Facilidade: Intermediária
+Número de páginas: ~200
+Filosofia principal: Ética e virtude.
+
+Nome do livro: O Leviatã - Thomas Hobbes
+Facilidade: Intermediária
+Número de páginas: ~400
+Filosofia principal: Contrato social e natureza humana.
+
+Nome do livro: Assim Falou Zaratustra - Friedrich Nietzsche
+Facilidade: Intermediária
+Número de páginas: ~350
+Filosofia principal: Existencialismo e niilismo.
+
+Nome do livro: Crítica da Razão Pura (Introdução e Prefácio) - Immanuel Kant
+Facilidade: Intermediária
+Número de páginas: ~120 (versão reduzida)
+Filosofia principal: Teoria do conhecimento.
+
+Etapa 3: Filosofia Avançada
+Nome do livro: Ser e Tempo - Martin Heidegger
+Facilidade: Avançada
+Número de páginas: ~600
+Filosofia principal: Ontologia e fenomenologia.
+
+Nome do livro: Fenomenologia do Espírito - Georg Wilhelm Friedrich Hegel
+Facilidade: Avançada
+Número de páginas: ~600
+Filosofia principal: Idealismo alemão e dialética.
+
+Nome do livro: O Capital (Volume 1) - Karl Marx
+Facilidade: Avançada
+Número de páginas: ~750
+Filosofia principal: Economia política e materialismo histórico.
+
+Nome do livro: A Sociedade do Espetáculo - Guy Debord
+Facilidade: Avançada
+Número de páginas: ~200
+Filosofia principal: Crítica social e cultura de consumo.
+
+Nome do livro: Diferença e Repetição - Gilles Deleuze
+Facilidade: Avançada
+Número de páginas: ~400
+Filosofia principal: Filosofia pós-estruturalista.
+
+Etapa 4: Filosofia Contemporânea e Especializada
+Nome do livro: Tractatus Logico-Philosophicus - Ludwig Wittgenstein
+Facilidade: Muito avançada
+Número de páginas: ~120
+Filosofia principal: Lógica e linguagem.
+
+Nome do livro: A Condição Humana - Hannah Arendt
+Facilidade: Muito avançada
+Número de páginas: ~380
+Filosofia principal: Política e ação humana.
+
+Nome do livro: Cultura e Imperialismo - Edward Said
+Facilidade: Muito avançada
+Número de páginas: ~400
+Filosofia principal: Pós-colonialismo e crítica cultural.
+
+Nome do livro: Mil Platôs (Volume 1) - Gilles Deleuze e Félix Guattari
+Facilidade: Muito avançada
+Número de páginas: ~600
+Filosofia principal: Filosofia rizomática e pós-estruturalismo.
+
+Nome do livro: Lógica da Pesquisa Científica - Karl Popper
+Facilidade: Muito avançada
+Número de páginas: ~320
+Filosofia principal: Epistemologia e método científico.
